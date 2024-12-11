@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikhilk415
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Python & Flutter
 - 📫 How to reach me nikhilkadian415@gmail.com
 
 <!---
